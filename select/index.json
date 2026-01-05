@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "走れマキバオー",
   "base_artist": "F.MAP",
-  "createdAt": "2025-12-01T16:37:53.035505Z",
+  "createdAt": "2026-01-05T09:26:51.705777Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,38 +27,6 @@
       "artist": "F.MAP",
       "has_synced": false,
       "path": "select/pl_01_走れマキバオー_F.MAP.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "走れマキバオー",
-      "artist": "F.MAP",
-      "has_synced": false,
-      "path": "select/pl_02_走れマキバオー_F.MAP.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "走れマキバオー",
-      "artist": "F.MAP",
-      "has_synced": false,
-      "path": "select/pl_03_走れマキバオー_F.MAP.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "走れマキバオー",
-      "artist": "F.MAP",
-      "has_synced": false,
-      "path": "select/pl_04_走れマキバオー_F.MAP.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "走れマキバオー",
-      "artist": "F.MAP",
-      "has_synced": false,
-      "path": "select/pl_05_走れマキバオー_F.MAP.txt"
     }
   ]
 }
